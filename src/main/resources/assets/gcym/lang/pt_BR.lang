@@ -1,1 +1,11 @@
-
+gcym.machine.large_macerator.name=Torre de Maceração Grande
+gcym.machine.alloy_blast_smelter.name=Alto-Forno de Ligas
+gcym.machine.large_arc_furnace.name=Grande Fundição a Arco
+gcym.machine.large_assembler.name=Grande Fábrica de Montagem
+gcym.machine.large_autoclave.name=Grande Câmara de Autoclave
+gcym.machine.large_bender.name=Grande Prensa de Materiais
+gcym.machine.large_brewer.name=Grande Cuba de Fermentação
+gcym.machine.large_centrifuge.name=Grande Unidade Centrífuga
+gcym.machine.large_chemical_bath.name=Grande Banho Químico
+gcym.machine.chemical_plant.name=Planta Química
+gcym.machine.chemical_plant.tooltip.1=Executa apenas Grande Receitas Químicas em paralelo
